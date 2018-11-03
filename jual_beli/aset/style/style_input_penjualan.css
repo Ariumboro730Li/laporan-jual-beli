@@ -1,0 +1,26 @@
+body 
+{ background-image:url(../../image/image3.jpg);}
+
+div.container
+{margin:0 auto;
+width:300px;
+margin-top:100px;
+padding:30px;
+background-image:url(../../image/image6.jpg);
+color:white;
+border-radius:20px;
+}
+
+ li
+{
+	text-decoration:none;
+width:300px;
+list-style-type:georgian;
+}
+ input {width:200px;}
+
+ option {width:100px;}
+ 
+ button
+ { background:blue;
+ color:white;}

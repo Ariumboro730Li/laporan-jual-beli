@@ -1,0 +1,26 @@
+body 
+{ background-image:url(../../image/image4.jpg);}
+
+div.container
+{margin:0 auto;
+width:310px;
+margin-top:30px;
+padding:30px;
+background-image:url(../../image/image6.jpg);
+color:white;
+border-radius:20px;
+}
+
+ li
+{
+	text-decoration:none;
+width:300px;
+list-style-type:lower-greek;
+}
+ input {width:230px;}
+
+ option {width:100px;}
+
+button
+{background-color:red;
+color:white;}

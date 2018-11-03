@@ -1,0 +1,168 @@
+
+
+header {
+	width: 1200px;
+	height:100px;
+	padding:10px;
+	background:none;
+	color:black;
+	margin:0 auto;
+	margin-bottom:0px;
+	margin-top:10px;
+	position:static;
+ }
+}
+div.header {
+	color:black;
+	margin: 0 auto;
+	position:relative;
+	background-color:blue;
+	
+ }
+ nav {
+	 background:none;
+	 width:100%;
+	  margin-left:40px;
+ text-align: float;
+ font-family: arial;
+ position:static;
+
+ } 
+ nav ul {
+ background:none;
+ list-style: none;
+ position: static;
+ display: inline-table;
+
+ }
+ 
+ nav ul li
+ {
+ float:left;
+ }
+
+ nav ul li:hover a{
+ color:#ff5500;
+ font-size:1.3em;
+font-family:Georgia, "Times New Roman", Times, serif;
+ }
+ nav ul li h2.judul{
+	 
+	 font-size:2em;
+	 width:300px;
+ display: block;
+ margin-left:-10px;
+ padding-right:50px;
+ margin-top:0px;
+ margin-bottom:0px;
+ color: #ff5500;
+ text-decoration: none;
+ font-family:nyala;
+ }
+ 
+
+ nav ul li a{
+	 
+	 font-size:1em;
+ display: block;
+ padding-left:1px;
+ padding-right:35px;
+ margin-top:20px;
+ color: #fff;
+ text-decoration: none;
+ }
+ 
+ body {
+	font-family: frankRuehl;
+	background-image:url(../../image/image3.jpg);
+
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+
+
+.container
+{ 
+	width: 95%;
+	height:750px;
+	background:none;
+	color:black;
+	padding:20px;
+	margin: 0 auto;
+	position:relative;
+ }
+
+ 
+ .containers
+{ 
+	width: 95%;
+	height:50px;
+	background:none;
+	color:black;
+	padding:20px;
+	margin: 0 auto;
+	position:relative;
+ }
+ p
+ { color:white;
+ font-size:1.2em;
+ }
+
+ 
+ button
+ { background:#006;
+ width:200px;
+ height:40px;
+ color:white;
+ padding:10px;
+ padding-top:4px;
+ margin-bottom:20px;
+ font-size:1.5em;
+ font-family : frankRuehl;
+ }
+ 
+ 
+thead th
+ { background:#006;
+ width:1100px;
+ color:white;
+ text-align:center;
+ padding:10px;
+ position:relative;}
+
+th.no 
+ 	{ width:50px;}
+ th.date
+ 	{ width:200px;}
+	th.nama 
+ 	{ width:2000px;}
+ th 
+ 	{ width:200px;}
+	
+	td 
+	{text-align:center;
+	font-size:1em;
+	background-color:white;
+	height:30px;}
+	
+ 
+ .footer {
+	width: 80%;
+	height:20px;
+	color:black;
+	margin: 0 auto;
+	position:relative;
+	background:none; 
+	margin:0 auto;
+	margin-top:10px;
+	margin-bottom:0px;
+	padding-top:20px;
+	padding-bottom:10px;
+	padding-left:20px;
+	padding-right:20px;
+ height:40px;
+ text-align: center;
+ font-family: arial;
+ position:static;
+ }

@@ -1,0 +1,28 @@
+body 
+{ background-image:url(../../image/image3.jpg);}
+
+div.container
+{margin:0 auto;
+width:350px;
+margin-top:70px;
+padding:30px;
+background-image:url(../../image/image6.jpg);
+color:white;
+border-radius:20px;
+}
+
+h1{text-align:center;}
+
+ li
+{
+	text-decoration:none;
+width:300px;
+}
+ input {width:250px;}
+ textarea {width:250px;}
+
+ option {width:100px;}
+ 
+ button
+ { background:blue;
+ color:white;}
